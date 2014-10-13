@@ -1,0 +1,5 @@
+gom 'github.com/stretchr/testify/mock'
+gom 'gopkg.in/check.v1'
+gom 'github.com/mitchellh/go-homedir'
+gom "github.com/russross/blackfriday"
+
